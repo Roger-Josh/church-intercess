@@ -111,3 +111,5 @@ preference:
 **Port already in use.** The frontend defaults to port 8443 and the API to
 5174. Override with `PORT=3000 npm run client` or `API_PORT=4000 npm run dev`
 (and update the proxy target in `vite.config.ts` if you change the API port).
+
+For more information email :nyiringangoroger2@gmail.com
